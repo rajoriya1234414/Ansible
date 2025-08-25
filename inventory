@@ -1,1 +1,8 @@
+[web_servers]
+172.27.14.206 apache_package=apache2 php_package=libapache2-mod-php
+
+[db_servers]
+172.27.14.206
+
+[file_servers]
 172.27.14.206
